@@ -1,0 +1,1 @@
+# Wazuh-Windows-Agent-Group-Configuration
